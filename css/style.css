@@ -374,7 +374,7 @@ input {
     align-items: center;
 }
 
-..popular__rating span {
+.popular__rating span {
     font-weight: 700;
     font-size: 1rem;
     line-height: 120%;
